@@ -40,4 +40,4 @@ Currently only the **quadratic** loss is implemented.
 
 ## Credits
 
-Thanks @SupreethRao99 for the [this](https://gist.github.com/SupreethRao99/2e85884dad433a6b381f966fea7a6658) piece of code which I randomly found while browsing, and that got me started.
+Thanks [@SupreethRao99](https://github.com/SupreethRao99) for [this](https://gist.github.com/SupreethRao99/2e85884dad433a6b381f966fea7a6658) piece of code which I randomly found while browsing, and that got me started.
